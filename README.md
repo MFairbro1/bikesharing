@@ -2,7 +2,7 @@
 
 ## Overview:
 
-### We are interested in starting a bike-sharing program in Des Moines. Therefore, we need to present Citi Bike data from NYC to investors in order to convince them that this is a worthwhile endeavour. 
+### We are interested in starting a bike-sharing program in Des Moines. Therefore, we need to present Citi Bike data from NYC to investors using Tableau in order to convince them that this is a worthwhile endeavour. 
 
 ## Results:
 
